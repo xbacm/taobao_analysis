@@ -9,7 +9,9 @@ MySQL 8.0 + Python (Pandas, Seaborn, Matplotlib) + Jupyter。
 同期群留存分析（Cohort Analysis，含小样本清洗）
 
 四、核心发现：
-
+漏斗发现：加购后回撤流量大（cart -> pv 高达 5677），购物车变成“暂存区”，建议定向触达。
+路径发现：冲动消费明显，pv -> buy（4515）多于 cart -> buy（1139）。
+留存发现：主力 Cohort 次日留存 60%-80%，且已剔除小样本（<300）及未观测周期，可视化严谨。
 
 五、如何运行：
 1. 环境依赖
