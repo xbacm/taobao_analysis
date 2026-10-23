@@ -62,7 +62,7 @@ text
 
 **后续验证方向**：进一步观察这批用户后续是否购买、多久购买，以及是否存在不同的回访模式。
 
-https://images/heatmap.png
+
 
 (图：用户行为转移热力图)
 
@@ -75,7 +75,7 @@ https://images/heatmap.png
 
 **后续验证方向**：后续可按商品、用户或行为序列进行细分，验证不同转移模式是否表现出不同的购买特征。
 
-https://images/funnel.png
+(images/funnel.png)
 (图：探索性转化漏斗)
 
 ### 发现四：2017年11月25日 Cohort 的次日活跃留存表现较高
@@ -87,7 +87,7 @@ https://images/funnel.png
 
 **后续验证方向**：可观察其他满足样本量条件的 Cohort，其次日留存是否也处于相近水平（需确保计算口径一致）。
 
-https://images/cohort.png
+(images/cohort.png)
 (图：清洗后的 Cohort 留存矩阵)
 
 5. 如何运行
